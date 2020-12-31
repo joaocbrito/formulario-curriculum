@@ -26,14 +26,3 @@
 </p>
 
 
-
-### Tecnologias utilizadas
-
-- [React.js](https://pt-br.reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [React-router-dom](https://www.npmjs.com/package/react-router-dom)
-- [Axios](https://www.npmjs.com/package/axios)
-- [Styled Components](https://styled-components.com/docs/basics)
-- [Polished](https://polished.js.org/)
-
-```
